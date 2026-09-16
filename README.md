@@ -80,5 +80,5 @@ Application entry point and menu-driven console interface.
 
 ## Author
 
-Student: Name Surname
-Group: XX-00
+Student: Oleksandr Shymanskyi
+Group: FEP-33
